@@ -2,7 +2,6 @@ import React,{ Component} from 'react';
 
 import './App.css';
 import PostList from './Components/PostList';
-import Modal from './Modal'
 
 
 
